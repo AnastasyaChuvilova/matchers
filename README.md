@@ -1,1 +1,2 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/y056ao1c281tnhln?svg=true)](https://ci.appveyor.com/project/AnastasyaChuvilova/clearfunc)
+[![Build status](https://ci.appveyor.com/api/projects/status/j8m5m1e715pbbch1?svg=true)](https://ci.appveyor.com/project/AnastasyaChuvilova/matchers)
+
